@@ -22,7 +22,7 @@ BTC price by Exchange
 
 ![alt text](https://user-images.githubusercontent.com/15635380/34078467-e893df24-e312-11e7-82c2-4dc4e0a25734.png)
 
-Cripto prices
+ALT-Cripto prices
 
 ![alt text](https://user-images.githubusercontent.com/15635380/34078489-57f0c026-e313-11e7-918a-dd0ec1344c9f.png)
 
